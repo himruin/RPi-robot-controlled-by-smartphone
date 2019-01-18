@@ -1,0 +1,17 @@
+{
+  "name": "rpi_robot",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "license": "-",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "nipplejs": "^0.6.8",
+    "rpio": "^0.9.17",
+    "socket.io": "^2.0.4"
+  }
+}

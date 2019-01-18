@@ -1,0 +1,12 @@
+{
+  "short_name": "rpi_robot",
+  "name": "rpi_robot",
+  "icons": [{
+    	"src": ,
+	"sizes": "512x512",
+      "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
